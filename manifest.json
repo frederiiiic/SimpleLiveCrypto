@@ -1,7 +1,8 @@
 ﻿{
 	"name": "SimpleLiveCrypto",
 	"author": "Frédéric Pavageau",
-	"version": "0.1a",
+	"version": "0.1",
+	"homepage_url": "https://github.com/frederiiiic/SimpleLiveCrypto",
 	"description": "The extension to provide live data from CoinMarketCap the easiest way on the browser.",
 	"lang": "en",
 	"manifest_version": 2,
